@@ -1,5 +1,20 @@
 # Changelog
 
+## \[2.0.0-alpha.12]
+
+### Enhancements
+
+- [`8a676617`](https://www.github.com/tauri-apps/tauri/commit/8a6766173b3da4446a87642e7282c73a5b631afe)([#7618](https://www.github.com/tauri-apps/tauri/pull/7618)) Ensure Builder is Send by requiring the menu closure to be Send.
+
+### What's Changed
+
+- [`6177150b`](https://www.github.com/tauri-apps/tauri/commit/6177150b6f83b52ca359d6e20f7e540f7554e4eb)([#7601](https://www.github.com/tauri-apps/tauri/pull/7601)) Changed `FileDropEvent` to include drop and hover position.
+
+### Dependencies
+
+- Upgraded to `tauri-runtime@1.0.0-alpha.1`
+- Upgraded to `tauri-runtime-wry@1.0.0-alpha.1`
+
 ## \[2.0.0-alpha.11]
 
 ### New Features

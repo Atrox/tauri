@@ -1,5 +1,11 @@
 # Changelog
 
+## \[1.0.0-alpha.1]
+
+### What's Changed
+
+- [`6177150b`](https://www.github.com/tauri-apps/tauri/commit/6177150b6f83b52ca359d6e20f7e540f7554e4eb)([#7601](https://www.github.com/tauri-apps/tauri/pull/7601)) Changed `FileDropEvent` to include drop and hover position.
+
 ## \[1.0.0-alpha.0]
 
 ### New Features
